@@ -2,7 +2,7 @@
 
 My name is Shengming(Shen) and I'm a software engineer with a hardware dream. I'm from New York City and currently studies computer engineering at Penn State University.
 
-I'm activtly looking for a PhD position in embedded hardware development and research, please contact me if you have a opportunity for me. :)
+I'm activtly looking for a PhD position in embedded hardware development and research, please contact me if you have an opportunity for me. :)
 
 ## Technologies & Tools
 
