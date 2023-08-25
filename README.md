@@ -1,8 +1,8 @@
 # Hello World!
 
-My name is Shengming(Shen) and I'm a software engineer with a hardware dream. I'm from New York City and currently studies computer engineering at Penn State University.
+My name is Shengming(Shen) and I'm a hardware reseacher. I'm from New York City and currently studies computer engineering at Penn State University.
 
-I'm actively looking for a PhD position in embedded hardware development and research, please contact me if you have an opportunity for me. :)
+I'm actively looking for a PhD position in embedded hardware development, please contact me if you have an opportunity for me. :)
 
 ## Technologies & Tools
 
