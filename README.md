@@ -2,8 +2,6 @@
 
 My name is Shengming(Shen) and I'm a hardware reseacher. I'm from New York City and currently studies computer engineering at Penn State University.
 
-I'm actively looking for a PhD position in embedded hardware development, please contact me if you have an opportunity for me. :)
-
 ## Technologies & Tools
 
 ### Languages
