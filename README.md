@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is Shengming(Shen) and I'm a hardware reseacher. I'm from New York City and currently studies computer engineering at Penn State University.
+My name is Shengming(Shen) and I'm a hardware reseacher. Civil Transportation Engineering PhD @ University of South Florida.
 
 ## Technologies & Tools
 
